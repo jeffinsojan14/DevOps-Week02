@@ -1,1 +1,15 @@
+
 # DevOps-Week02
+
+# DevOps Week 02
+
+Prepared By: JEFFIN SOJAN
+
+This repository was created as part of the Week 2 DevOps Internship assignment.
+
+## Technologies
+
+- Git
+- GitHub
+- Ubuntu
+>>>>>>> 9e5e6b8 (Initial project setup)
