@@ -11,4 +11,4 @@ This repository was created as part of the Week 2 DevOps Internship assignment.
 - Git
 - GitHub
 - Ubuntu
->>>>>>> 9e5e6b8 (Initial project setup)
+
